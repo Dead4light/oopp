@@ -1,0 +1,17 @@
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MultiLanguageTextEditor.Form1.resources
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\uk-UA\WindowsFormsApp1.resources.dll
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Strings.resources
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Strings.en-US.resources
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Resources.Strings.uk-UA.resources
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\en-US\WindowsFormsApp1.resources.dll
+C:\Users\bo7yaaa\Desktop\лабы\C#\LAB7\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\uk-UA\WindowsFormsApp1.resources.dll
